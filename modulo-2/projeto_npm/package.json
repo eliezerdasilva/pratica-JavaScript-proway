@@ -1,0 +1,12 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Pacote de teste para o curso de JS",
+  "main": "index.js",
+  "author": "Eliézer da Silva <eliezerdasilva2005@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "moment": "2.24"
+  }
+}
